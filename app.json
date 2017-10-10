@@ -1,0 +1,14 @@
+{
+  "pages": [
+    "pages/cut/cut",
+    "pages/index/index",
+    "pages/index/imgcut"
+    
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  }
+}
