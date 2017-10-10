@@ -3,4 +3,4 @@
 <template is="welCropper" data="{{data:cropperData, cropperMovableItems:cropperMovableItems}}"></template>
 
 <!-- 用于选择图片，传入cropper中 -->
-<button bindtap='selectTap'>select image</button>
+<button bindtap='selectTap'>选择图片</button>

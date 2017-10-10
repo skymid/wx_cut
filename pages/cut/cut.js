@@ -25,11 +25,6 @@ Page({
         const tempFilePath = res.tempFilePaths[0]
         console.log(tempFilePath)
 
-        var base64 = wx.arrayBufferToBase64(tempFilePath.path)
-        console.log("ddd" + base64)
-        console.log("eee")
-     
-
 
         // 将选取图片传入cropper，并显示cropper
         that.showCropper({
